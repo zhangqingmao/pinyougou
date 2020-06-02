@@ -9,6 +9,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Vue\pinyougou\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1ckD36E0X0Tdqzssk6p896lT3IV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -52,6 +60,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="317" y="0" key="CommitChangelistDialog2" timestamp="1591063857281">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="317" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591063857281" />
+    <state x="100" y="110" width="1200" height="584" key="DiffContextDialog" timestamp="1591063975411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="110" width="1200" height="584" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1591063975411" />
     <state x="481" y="146" key="FileChooserDialogImpl" timestamp="1591063560625">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
